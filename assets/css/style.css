@@ -1,0 +1,68 @@
+body {
+	text-align: center;
+	background-color: #c4e3ed;
+}
+
+#buttonAndFormContainer {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #a6a6a6;
+	padding-bottom: 1%;
+	
+	color: white;
+
+	background-color: #4aaaa5;
+	
+}
+
+/*
+#greetingText {
+	width: 25%;
+	margin-right: 37.5%;
+	margin-left: 37.5%;
+	margin-bottom: 5px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #595959;
+}
+*/
+
+
+#buttonContainer {
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#buttonContainer button {
+	margin-bottom: .5%;
+}
+
+
+#pictureContainer {
+	text-align: center;
+	width: 93%;
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+
+	
+}
+
+#pictureContainer img {
+	width: 250px;
+	height: 250px;
+	
+	border-style: solid;
+	border-width: 2px;
+	border-color: #737373;
+	margin: 1px;
+
+}
+
+
+
+
+/*This refers to the image/text paired div added by the Javascript*/
+.textPic {
+	float: left;
+}
